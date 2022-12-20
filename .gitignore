@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+EEZ/eez_v11.cpg
+EEZ/eez_v11.dbf
+EEZ/eez_v11.prj
+EEZ/eez_v11.qpj
+EEZ/eez_v11.shp
+EEZ/eez_v11.shx
+results/harbor_50km_coast_2.5km_buffer.gpkg
